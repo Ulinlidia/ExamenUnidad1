@@ -1,0 +1,27 @@
+body{
+  text-align:center;
+  background: url("https://i.pinimg.com/originals/bb/8d/ab/bb8daba35879e7b1686862e3edab468c.gif");
+}
+p{
+  font-size:20px;
+  font-weight:100;
+  color: black;
+  font-family:calibri; 
+}
+.margen{
+  background-color: #BFFCC6;
+  margin: 150px 500px 30px 500px;
+  padding: 30px 25px 15px 10px;
+  border: 7px dotted blue;
+  height: 500px;
+}
+input{
+  color: white;
+  text-decoration: none;
+  padding:8px;
+  font-weight: 600;
+  font-size: 18px;
+  background-color:#26C6DA ;
+  border-radius: 15px;
+  border: 2px solid blue ;
+}

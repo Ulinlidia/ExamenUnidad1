@@ -1,0 +1,41 @@
+body{
+   background: #1f4037;  /* fallback for old browsers */
+background: url("https://www.wallpapertip.com/wmimgs/9-95685_yellow-green-flower-background.jpg");
+
+}
+#navegador ul{
+   list-style-type: none;
+   text-align: center;
+}
+#navegador li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+}
+#navegador li a {
+   padding: 2px 7px 2px 7px;
+   color: #666;
+   background-color: #77dd77;
+   border: 2px solid #006600;
+   text-decoration: none;
+}
+#navegador li a:hover{
+   color: black;
+}
+
+ .group{
+  font-size:20px;
+  font-weight:100;
+  color: black;
+  font-family:calibri; 
+}
+.margen{
+  background-color: #f8dda9;
+  margin: 150px 500px 30px 500px;
+  padding: 30px 25px 15px 10px;
+  border: 5px dotted blue;
+  height: 500px;
+  text-align:center;
+  padding: 0 40px 400px 20px;
+  border: 4px solid black;
+}

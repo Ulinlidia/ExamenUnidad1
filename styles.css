@@ -1,0 +1,36 @@
+/* use this to put borders around things... */
+.thin_border{
+	border: 1px solid black;
+}
+h1{
+	background: linear-gradient(green,red);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-align: center;
+}
+body{
+	background: #1f4037;  /* fallback for old browsers */
+background: url("https://www.wallpapertip.com/wmimgs/9-95685_yellow-green-flower-background.jpg");
+
+}
+
+#navegador ul{
+   list-style-type: none;
+   text-align: center;
+}
+#navegador li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+}
+#navegador li a {
+   padding: 2px 7px 2px 7px;
+   color: #666;
+   background-color: #50CC7F;
+   border: 2px solid #006600;
+   text-decoration: none;
+}
+#navegador li a:hover{
+   background-color: #333333;
+   color: BLUE;
+}
