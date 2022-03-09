@@ -1,6 +1,6 @@
 body{
    background: #1f4037;  /* fallback for old browsers */
-background: url("https://www.wallpapertip.com/wmimgs/9-95685_yellow-green-flower-background.jpg");
+background: url("https://static.vecteezy.com/system/resources/previews/002/671/731/non_2x/light-green-background-with-bubbles-modern-abstract-illustration-with-colorful-circle-shapes-design-for-posters-banners-vector.jpg");
 
 }
 #navegador ul{
@@ -16,7 +16,7 @@ background: url("https://www.wallpapertip.com/wmimgs/9-95685_yellow-green-flower
    padding: 2px 7px 2px 7px;
    color: #666;
    background-color: #77dd77;
-   border: 2px solid #006600;
+   border: 2px solid #4C8A2B;
    text-decoration: none;
 }
 #navegador li a:hover{
@@ -30,7 +30,7 @@ background: url("https://www.wallpapertip.com/wmimgs/9-95685_yellow-green-flower
   font-family:calibri; 
 }
 .margen{
-  background-color: #f8dda9;
+  background-color: #b6dcb6;
   margin: 150px 500px 30px 500px;
   padding: 30px 25px 15px 10px;
   border: 5px dotted blue;
